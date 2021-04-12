@@ -1,0 +1,6 @@
+requests
+os.path
+os
+termcolor
+Pyfiglet
+re
