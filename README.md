@@ -1,9 +1,9 @@
 # Facebook-brute-force
 Powerful facebook bruteforce tool made with python requests
 
-## Use ethically ##
+## Use ethically
 
-#Installation in termux
+## Installation in termux ##
 
 pkg install python
 
